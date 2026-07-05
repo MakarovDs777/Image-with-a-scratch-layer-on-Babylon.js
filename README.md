@@ -1,0 +1,1 @@
+# Image-with-a-scratch-layer-on-Babylon.js
