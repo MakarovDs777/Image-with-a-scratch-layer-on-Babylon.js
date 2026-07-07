@@ -11,3 +11,5 @@
 [Image with a scratch layer on Babylon.js (Version 4 - More line faded) | Babylon.js Playground](https://playground.babylonjs.com/#D5UE38)
 
 [Image with a scratch layer on Babylon.js (Version 5 - More line faded but Image on top of image) | Babylon.js Playground](https://playground.babylonjs.com/#CTOOKT)
+
+[Image with a scratch layer on Babylon.js (Version 6 - More line faded different levels but Image on top of image) | Babylon.js Playground](https://playground.babylonjs.com/#90BFZK)
