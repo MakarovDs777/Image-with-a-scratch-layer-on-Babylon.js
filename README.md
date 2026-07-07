@@ -4,7 +4,7 @@
 
 [Image with a scratch layer on Babylon.js (Version 1 - Image on top of image) | Babylon.js Playground](https://playground.babylonjs.com/#GYSU90#1)
 
-[Image with a scratch layer on Babylon.js (Version 2 - More images) | Babylon.js Playground](https://playground.babylonjs.com/#U9XT3N)
+[Image with a scratch layer on Babylon.js (Version 2 - More images) | Babylon.js Playground](https://playground.babylonjs.com/#U9XT3N#1)
 
 [Image with a scratch layer on Babylon.js (Version 3 - Line fadded) | Babylon.js Playground](https://playground.babylonjs.com/#TCICOQ)
 
